@@ -1,3 +1,0 @@
-User-agent: *
-Allow: /
-Sitemap: https://founderdavidbelldbfdbe2026-arch.github.io/sitemap.xml
